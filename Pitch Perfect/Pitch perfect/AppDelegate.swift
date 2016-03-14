@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Pitch Perfect
+//  Pitch perfect
 //
-//  Created by Ishaan Mehra on 06/03/16.
+//  Created by Ishaan Mehra on 07/03/16.
 //  Copyright © 2016 Ishaan Mehra. All rights reserved.
 //
 
